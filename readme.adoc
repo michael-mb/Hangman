@@ -1,6 +1,7 @@
 = Hangman
 
 This game was developed in Java with the IDE Eclipce.
+More information about the game : https://en.wikipedia.org/wiki/Hangman_(game) 
 
 == How to run the application?
 
